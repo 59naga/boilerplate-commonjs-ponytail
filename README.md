@@ -6,9 +6,9 @@ description.
 
 :bookmark: Table of contents
 ---
-* [Installation](./development/README.md#inbox_tray-installation)
-* [API](./development/README.md#scroll-api)
-* [Development](./development/README.md#wrench-development)
+* :inbox_tray: [Installation](./development/README.md#inbox_tray-installation)
+* :bulb: [API](./development/README.md#scroll-api)
+* :wrench: [Development](./development/README.md#wrench-development)
 
 <!-- begin optional. please remove  -->
 
