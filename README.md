@@ -1,23 +1,6 @@
 :package: `boilerplate-commonjs-ponytail`
 ---
-
-<p align="right">
-  <a href="https://npmjs.org/package/boilerplate-commonjs-ponytail">
-    <img src="https://img.shields.io/npm/v/boilerplate-commonjs-ponytail.svg?style=flat-square">
-  </a>
-  <a href="https://travis-ci.org/59naga/boilerplate-commonjs-ponytail">
-    <img src="http://img.shields.io/travis/59naga/boilerplate-commonjs-ponytail.svg?style=flat-square">
-  </a>
-  <a href="https://codeclimate.com/github/59naga/boilerplate-commonjs-ponytail/coverage">
-    <img src="https://img.shields.io/codeclimate/github/59naga/boilerplate-commonjs-ponytail.svg?style=flat-square">
-  </a>
-  <a href="https://codeclimate.com/github/59naga/boilerplate-commonjs-ponytail">
-    <img src="https://img.shields.io/codeclimate/coverage/github/59naga/boilerplate-commonjs-ponytail.svg?style=flat-square">
-  </a>
-  <a href="https://gemnasium.com/59naga/boilerplate-commonjs-ponytail">
-    <img src="https://img.shields.io/gemnasium/59naga/boilerplate-commonjs-ponytail.svg?style=flat-square">
-  </a>
-</p>
+<!-- logo here -->
 
 description.
 
