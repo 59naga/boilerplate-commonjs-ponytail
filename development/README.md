@@ -1,11 +1,11 @@
-:package: `your-module-name`
+:package: `boilerplate-commonjs-ponytail`
 ---
 no description yet.
 
 :inbox_tray: Installation
 ---
 ```bash
-npm install your-module-name --save
+npm install boilerplate-commonjs-ponytail --save
 ```
 
 :bulb: Motivation
@@ -23,8 +23,8 @@ Requirement global
 * Npm v3.8.6 (or [pnpm](https://github.com/rstacruz/pnpm))
 
 ```bash
-git clone https://github.com/59naga/your-module-name
-cd your-module-name/development
+git clone https://github.com/59naga/boilerplate-commonjs-ponytail
+cd boilerplate-commonjs-ponytail/development
 npm install
 
 npm test

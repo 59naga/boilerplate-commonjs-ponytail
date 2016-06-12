@@ -1,21 +1,21 @@
-:package: `your-module-name`
+:package: `boilerplate-commonjs-ponytail`
 ---
 
 <p align="right">
-  <a href="https://npmjs.org/package/your-module-name">
-    <img src="https://img.shields.io/npm/v/your-module-name.svg?style=flat-square">
+  <a href="https://npmjs.org/package/boilerplate-commonjs-ponytail">
+    <img src="https://img.shields.io/npm/v/boilerplate-commonjs-ponytail.svg?style=flat-square">
   </a>
-  <a href="https://travis-ci.org/59naga/your-module-name">
-    <img src="http://img.shields.io/travis/59naga/your-module-name.svg?style=flat-square">
+  <a href="https://travis-ci.org/59naga/boilerplate-commonjs-ponytail">
+    <img src="http://img.shields.io/travis/59naga/boilerplate-commonjs-ponytail.svg?style=flat-square">
   </a>
-  <a href="https://codeclimate.com/github/59naga/your-module-name/coverage">
-    <img src="https://img.shields.io/codeclimate/github/59naga/your-module-name.svg?style=flat-square">
+  <a href="https://codeclimate.com/github/59naga/boilerplate-commonjs-ponytail/coverage">
+    <img src="https://img.shields.io/codeclimate/github/59naga/boilerplate-commonjs-ponytail.svg?style=flat-square">
   </a>
-  <a href="https://codeclimate.com/github/59naga/your-module-name">
-    <img src="https://img.shields.io/codeclimate/coverage/github/59naga/your-module-name.svg?style=flat-square">
+  <a href="https://codeclimate.com/github/59naga/boilerplate-commonjs-ponytail">
+    <img src="https://img.shields.io/codeclimate/coverage/github/59naga/boilerplate-commonjs-ponytail.svg?style=flat-square">
   </a>
-  <a href="https://gemnasium.com/59naga/your-module-name">
-    <img src="https://img.shields.io/gemnasium/59naga/your-module-name.svg?style=flat-square">
+  <a href="https://gemnasium.com/59naga/boilerplate-commonjs-ponytail">
+    <img src="https://img.shields.io/gemnasium/59naga/boilerplate-commonjs-ponytail.svg?style=flat-square">
   </a>
 </p>
 
@@ -32,7 +32,7 @@ description.
 :pencil2: Git Commit Messages(Recommended)
 ---
 * [Git Commit Messages - conventional-changelog-atom](https://github.com/conventional-changelog/conventional-changelog-atom/blob/master/convention.md)
-* [atomコミットメッセージ規約について](https://github.com/59798/emoji-commit-and-releases)
+* [atomコミットメッセージ規約について](https://github.com/59798/emoji-commit-and-releases#readme)
 
 :shipit: Releasing and Coverage Report via TravisCI
 ---

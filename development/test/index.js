@@ -2,12 +2,12 @@
 import assert from 'assert';
 
 // target
-import yourModuleName from '../src';
+import method from '../src';
 
 // specs
-describe('yourModuleName', () => {
+describe('method', () => {
   it('spec1', () => {
     // Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis non incidunt magni libero rem. Ut animi deserunt.
-    assert.deepStrictEqual(yourModuleName(), { foo: null });
+    assert.deepStrictEqual(method(), { foo: null });
   });
 });
