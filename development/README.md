@@ -13,9 +13,6 @@
   <a href="https://codeclimate.com/github/59naga/boilerplate-commonjs-ponytail">
     <img src="https://img.shields.io/codeclimate/coverage/github/59naga/boilerplate-commonjs-ponytail.svg?style=flat-square">
   </a>
-  <a href="https://gemnasium.com/59naga/boilerplate-commonjs-ponytail">
-    <img src="https://img.shields.io/gemnasium/59naga/boilerplate-commonjs-ponytail.svg?style=flat-square">
-  </a>
 </p>
 
 no description yet.
