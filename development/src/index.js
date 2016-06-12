@@ -1,1 +1,1 @@
-export default () => { foo: undefined };
+export default () => ({ foo: undefined });
