@@ -1,4 +1,6 @@
 {
+  "private": true,
+  "description": "↑ remove this",
   "main": "lib",
   "files": [
     "lib"
