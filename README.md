@@ -27,6 +27,6 @@ description.
 <br><br>
 <p align="right">
   <a href="http://59naga.mit-license.org/">
-    :clipboard: MIT License
+    MIT License :clipboard:
   </a>
 </p>
