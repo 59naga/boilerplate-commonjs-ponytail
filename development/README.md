@@ -10,6 +10,4 @@ no motivation dead.
 ---
 no documentation bad.
 
-:clipboard: License
----
-[MIT](http://59naga.mit-license.org/)
+:clipboard: [MIT](http://59naga.mit-license.org/) License
