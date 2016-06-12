@@ -21,25 +21,11 @@
 
 description.
 
-:inbox_tray: Installation
+:bookmark: Table of contents
 ---
-```bash
-npm install your-module-name --save
-```
-
-:wrench: Development
----
-Requirement global
-* NodeJS v5.11.1
-* Npm v3.8.6 (or [pnpm](https://github.com/rstacruz/pnpm))
-
-```bash
-git clone https://github.com/59naga/your-module-name
-cd your-module-name/development
-npm install
-
-npm test
-```
+* [Instalation](./development/README.md#inbox_tray-installation)
+* [API](./development/README.md#scroll-api)
+* [Development](./development/README.md#wrench-development)
 
 <!-- begin optional. please remove  -->
 
