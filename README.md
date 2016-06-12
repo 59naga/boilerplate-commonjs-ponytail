@@ -23,7 +23,7 @@ description.
 
 :bookmark: Table of contents
 ---
-* [Instalation](./development/README.md#inbox_tray-installation)
+* [Installation](./development/README.md#inbox_tray-installation)
 * [API](./development/README.md#scroll-api)
 * [Development](./development/README.md#wrench-development)
 
