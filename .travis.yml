@@ -6,7 +6,7 @@ sudo: false
 cache:
   directories:
     - ~/.npm
-    - development
+    - development/node_modules
 
 # Ignore version tags
 branches:
