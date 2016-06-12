@@ -41,4 +41,9 @@ description.
 
 <!-- end optional. please remove  -->
 
-:clipboard: [MIT](http://59naga.mit-license.org/) License
+<br><br>
+<p align="right">
+  <a href="http://59naga.mit-license.org/">
+    :clipboard: MIT License
+  </a>
+</p>
