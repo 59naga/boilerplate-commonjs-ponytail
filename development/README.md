@@ -37,8 +37,8 @@ no documentation bad.
 :wrench: Development
 ---
 Requirement global
-* NodeJS v5.11.1
-* Npm v3.8.6 (or [pnpm](https://github.com/rstacruz/pnpm))
+* NodeJS v8.2.1
+* Npm v5.3.0 (or [pnpm](https://github.com/rstacruz/pnpm))
 
 ```bash
 git clone https://github.com/59naga/boilerplate-commonjs-ponytail
